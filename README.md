@@ -1,2 +1,1 @@
-# sd_excercises_uade
-Excercises from Software Development course / UADE
+Excersices from "Fundamentos de Informática" - Software Development / UADE.
